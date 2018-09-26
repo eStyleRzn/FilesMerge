@@ -1,0 +1,4 @@
+25.06.2018 09:29:56 [812]  DEBUG:   chat.eventpoll: abc
+25.06.2018 09:29:56 [812]  DEBUG:   duplicated
+25.06.2018 09:29:59 [812]  DEBUG:   chat.history: OnChatEvent('300035141@mtalker.mangotele.com')
+25.06.2018 09:29:60 [812]  DEBUG:   must be the latest string

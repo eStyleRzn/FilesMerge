@@ -1,0 +1,4 @@
+25.06.2018 09:29:50 [812]  DEBUG:   must be the first record
+25.06.2018 09:29:56 [812]  DEBUG:   duplicated
+25.06.2018 09:29:57 [812]  DEBUG:   chat.history: OnChatEvent('300035141@mtalker.mangotele.com')
+25.06.2018 09:29:58 [812]  DEBUG:   chat.conversat: '300035141@mtalker.mangotele.com': OnWebchatHistoryReadyEvent()
